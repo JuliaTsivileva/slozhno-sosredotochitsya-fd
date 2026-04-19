@@ -2,3 +2,17 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+:root {
+  --cover-image: url(../images/cover-image-dark.png);
+  --accent-text-decor: #FF0070; /*rec*/
+  --accent-decor: #FF0070; /*DETEILS*/
+  --accent-text-nav: #FF0070; 
+  --accent-bg-page: #000028;
+  --title-decor: #ff0070; /*обводка текста*/
+  --text-heading-title: #000028;
+  --accent-section__title: #FF0070;
+  --accent-section__description:#F1B2CE;
+  --accent-text-link:#F1B2CE;
+  --accent-decor-link: #FF0070;
+  --accent-text-question:#FF0070;
+}
