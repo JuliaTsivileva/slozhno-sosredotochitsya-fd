@@ -1,4 +1,4 @@
-git@github.com:JuliaTsivileva/slozhno-sosredotochitsya-fd.git
+https://github.com/JuliaTsivileva/slozhno-sosredotochitsya-fd.git
 
 Была выполнена работа в соответствии с рекомендациями
 Я.Практикум "Проектная работа «Сложно сосредоточиться»"
