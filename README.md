@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 https://github.com/JuliaTsivileva/slozhno-sosredotochitsya-fd.git
+=======
+git@github.com:JuliaTsivileva/slozhno-sosredotochitsya-fd.git
+>>>>>>> 96e769e (change link git)
 
 Была выполнена работа в соответствии с рекомендациями
 Я.Практикум "Проектная работа «Сложно сосредоточиться»"
@@ -9,3 +13,7 @@ https://github.com/JuliaTsivileva/slozhno-sosredotochitsya-fd.git
 
 Использовала title-decor для стилиции заголовков карточек и
  прочих элементов аналогично стилизованных элементов.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 96e769e (change link git)
