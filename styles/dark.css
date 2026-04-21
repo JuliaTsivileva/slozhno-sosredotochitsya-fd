@@ -10,32 +10,18 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --cover-image: url(../images/cover-image-dark.png);
-  --accent-text-decor: #FF0070; 
-  --accent-decor: #FF0070; 
-  --accent-text-nav: #FF0070; 
+  --accent-text-decor: #ff0070;
+  --accent-decor: #ff0070;
+  --accent-text-nav: #ff0070;
+  --accent-heading-text: #db00ff;
+  --accent-heading-color: #ff0070;
   --accent-bg-page: #000028;
-  --title-decor: #ff0070; 
+  --title-decor: #ff0070;
   --text-heading-title: #000028;
-  --accent-section__title: #FF0070;
-  --accent-section__description:#F1B2CE;
-  --accent-text-link:#F1B2CE;
-  --accent-decor-link: #FF0070;
-  --accent-text-question:#FF0070;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --cover-image: url(../images/cover-image-dark.png);
-    --accent-text-decor: #FF0070; 
-    --accent-decor: #FF0070; 
-    --accent-text-nav: #FF0070; 
-    --accent-bg-page: #000028;
-    --title-decor: #ff0070; 
-    --text-heading-title: #000028;
-    --accent-section__title: #FF0070;
-   --accent-section__description:#F1B2CE;
-    --accent-text-link:#F1B2CE;
-    --accent-decor-link: #FF0070;
-    --accent-text-question:#FF0070;
-  }
+  --accent-section__title: #ff0070;
+  --accent-section__description:#f1b2ce;
+  --accent-text-link:#f1b2ce;
+  --accent-decor-link: #ff0070;
+  --accent-color-link: rgba(255, 0, 112, 0.4);
+  --accent-text-question:#ff0070;
 }

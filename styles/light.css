@@ -3,21 +3,40 @@
   Здесь окажутся стили, которые нужно переопределить принудительно,
   переключая тему
 */
- :root.theme-light {
-   --cover-image: url(../images/cover-image-light.png);
-   --accent-text-decor: transparent;
-   --accent-decor: #353430;
-   --accent-text-nav: #353430;
-   --accent-heading-text: #FFC2E6;
-   --accent-heading-color: #FF8DCB;
-   --accent-bg-page: #fff1f7;
-   --title-decor: #FF8DCB;
-   --text-heading-title: #353430;
-   --accent-section__title: #353430;
-   --accent-section__description: #353430;
-   --accent-text-link: #353430;
-   --accent-decor-link: #FFC2E6;
-   --accent-text-question: #353430;
- }
+:root.theme-light {
+  --cover-image: url(../images/cover-image-light.png);
+  --accent-text-decor: transparent;
+  --accent-decor: #353430;
+  --accent-text-nav: #353430;
+  --accent-heading-text: #ffc2e6;
+  --accent-heading-color: #ff8dcb;
+  --accent-bg-page: #fff1f7;
+  --title-decor: #ff8dcb;
+  --text-heading-title: #353430;
+  --accent-section__title: #353430;
+  --accent-section__description: #353430;
+  --accent-text-link: #353430;
+  --accent-decor-link: #ff8dcb;
+  --accent-color-link:#32312d66;
+  --accent-text-question: #353430;
+}
 
-
+ @media (prefers-color-scheme: light) {
+  :root {
+    --cover-image: url(../images/cover-image-light.png);
+    --accent-text-decor: transparent;
+    --accent-decor: #353430;
+    --accent-text-nav: #353430;
+    --accent-heading-text: #ffc2e6;
+    --accent-heading-color: #ff8dcb;
+    --accent-bg-page: #fff1f7;
+    --title-decor: #ff8dcb;
+    --text-heading-title: #353430;
+    --accent-section__title: #353430;
+    --accent-section__description: #353430;
+    --accent-text-link: #353430;
+    --accent-decor-link: #ff8dcb;
+    --accent-color-link:#32312d66;
+    --accent-text-question: #353430;
+  }
+}
