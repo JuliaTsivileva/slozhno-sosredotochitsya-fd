@@ -23,7 +23,7 @@
 
  @media (prefers-color-scheme: light) {
   :root {
-    --cover-image: url(../images/cover-image-light.png);
+  --cover-image: url(../images/cover-image-light.png);
     --accent-text-decor: transparent;
     --accent-decor: #353430;
     --accent-text-nav: #353430;
